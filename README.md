@@ -93,7 +93,7 @@ Below are visuals from the Streamlit application interface .
 
 ![App Interface](screenshots/2.png)
 
-![Prediction Example](3.png)
+![Prediction Example](screenshots/3.png)
 
 ---
 
